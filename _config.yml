@@ -5,7 +5,7 @@ permalink: pretty
 
 port: 3000
 
-baseurl: BolVicky-portfolio/
+baseurl: /BolVicky-portfolio
 include: [_*]
 sass:
   sass_dir: assets/css
